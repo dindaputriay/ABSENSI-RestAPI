@@ -1,0 +1,2 @@
+PORT = 3000
+DB_CONNECTION = mongodb+srv://dindaputri:dindaputri@clustertulisaja.yzhuczq.mongodb.net/dbabsensi?retryWrites=true&w=majority
